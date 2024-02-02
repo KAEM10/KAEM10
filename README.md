@@ -9,15 +9,12 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
 ## Tecnologías:
-[![Python]()]()
-[![Java]()]()
-[![JavaScript]()]()
 </br>
 Y alguna más...
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![Twitter](https://img.shields.io/badge/twitter.com/kevineraso25?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
+[![Instagram](https://img.shields.io/badge/twitter.com/kevineraso25?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
+[![Facebook](https://img.shields.io/badge/twitter.com/kevineraso25?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[![LinkedIn](https://img.shields.io/badge/twitter.com/kevineraso25?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
