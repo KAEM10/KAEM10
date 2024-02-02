@@ -9,9 +9,9 @@ Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones 
 En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
 
 ## Tecnologías:
-[![Python]]
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python]()]()
+[![Java]()]()
+[![JavaScript]()]()
 </br>
 Y alguna más...
 
