@@ -18,7 +18,7 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kevineraso25)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kevineraso25)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/kevinalejandro.erasomedina.90/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kevin-eraso/)
+[![Twitter](https://img.shields.io/badge/Twitter-@kevineraso25-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kevineraso25)
+[![Instagram](https://img.shields.io/badge/Instagram-@kevineraso25-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kevineraso25)
+[![Facebook](https://img.shields.io/badge/Facebook-@KevinEraso-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/kevinalejandro.erasomedina.90/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-KevinEraso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kevin-eraso/)
