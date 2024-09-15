@@ -23,5 +23,5 @@ Y alguna más...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-KevinEraso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kevin-eraso/)
 [![Instagram](https://img.shields.io/badge/Instagram-@kevineraso25-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/kevineraso25)
 [![Facebook](https://img.shields.io/badge/Facebook-@KevinEraso-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/kevinalejandro.erasomedina.90/)
-[![Correo](https://img.shields.io/badge/Gmail-@KevinEraso-1877F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](kerasom@unicauca.edu.co)
+[![Correo](https://img.shields.io/badge/Gmail-kerasom@unicauca.edu.co-1877F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](kerasom@unicauca.edu.co)
 
