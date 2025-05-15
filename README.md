@@ -10,7 +10,7 @@ Mi enfoque está en la creación de aplicaciones eficientes, funcionales y escal
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]() 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)]() 
-[![Next](https://img.shields.io/badge/Next.js-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]() 
+[![Next.js](https://img.shields.io/badge/Next.js-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]() 
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=101010)]() 
 [![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white&labelColor=101010)]()
 </br>
